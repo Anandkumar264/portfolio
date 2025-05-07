@@ -20,8 +20,14 @@ Check out the live version here: [Portfolio Live Demo](https://anandkumar264.git
 ## 🛠 Getting Started
 
 Clone the repository and install dependencies:
-
-```bash
 git clone https://github.com/Anandkumar264/portfolio.git
-cd portfolio
-npm install
+
+Technologies Used
+=======================================
+Next.js – Framework for React with file-based routing and SSR.
+
+Tailwind CSS – Utility-first CSS framework.
+
+TypeScript – Typed JavaScript for better developer experience.
+
+ESLint – Static code analysis for finding bugs and style issues.
