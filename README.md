@@ -4,7 +4,7 @@ This is a modern developer portfolio website built with [Next.js](https://nextjs
 
 ##  Live Demo
 
-Check out the live version here: [Portfolio Live Demo]() *(replace with actual live URL if hosted on Vercel, GitHub Pages, etc.)*
+Check out the live version here: [Portfolio Live Demo](https://portfolio-anand-kumars-projects-004ca1e5.vercel.app/) *(replace with actual live URL if hosted on Vercel, GitHub Pages, etc.)*
 
 ##  Project Structure
 
