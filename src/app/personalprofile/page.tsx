@@ -1,4 +1,4 @@
-import Experience from "@/components/Experience";
+
 import Navbar from "@/components/Navbar";
 import PersonalProfile from "@/components/PersonalProfile";
 import React from "react";
